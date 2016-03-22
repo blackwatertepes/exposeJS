@@ -1,5 +1,5 @@
 ExposeJS
-========
+=========
 
 ExposeJS gives you the ability to hide/show DOM elements based on the position of other DOM elements within the window.
 
